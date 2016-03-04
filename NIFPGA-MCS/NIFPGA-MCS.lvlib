@@ -84,7 +84,6 @@ INFO2SF
 		<Item Name="NIFPGA-MCS.set i attribute.vi" Type="VI" URL="../NIFPGA-MCS.set i attribute.vi"/>
 		<Item Name="NIFPGA-MCS.ProcCases.vi" Type="VI" URL="../NIFPGA-MCS.ProcCases.vi"/>
 		<Item Name="NIFPGA-MCS.ProcPeriodic.vi" Type="VI" URL="../NIFPGA-MCS.ProcPeriodic.vi"/>
-		<Item Name="target.state.ctl" Type="VI" URL="../../../../CSinstr.lib/NI-FPGA-MCS/target/target.state.ctl"/>
 	</Item>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
