@@ -104,4 +104,5 @@ INFO2SF</Property>
 	<Item Name="SR1.contents.vi" Type="VI" URL="../SR1.contents.vi"/>
 	<Item Name="SR1_db.ini" Type="Document" URL="../SR1_db.ini"/>
 	<Item Name="SR1_mapping.ini" Type="Document" URL="../SR1_mapping.ini"/>
+	<Item Name="SR1.gog" Type="Document" URL="../SR1.gog"/>
 </Library>
